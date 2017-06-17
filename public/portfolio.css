@@ -1,0 +1,62 @@
+
+
+* {
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-family: Impact;
+}
+
+img {
+  max-width: 230px;
+  margin: 15px auto;
+  display: block;
+  border-radius: 80%;
+  border: 5px solid gray;
+  transition: 2.5s;
+}
+
+img:hover {
+    transform: scale(1.2);
+  margin: 35px auto;
+}
+
+#bio {
+  color: gray;
+  font-family: Arial;
+  text-align: center;
+}
+
+#links {
+  text-align: center;
+}
+
+.icons {
+  color: yellow;
+  text-decoration: none;
+}
+
+h3 {
+  text-align: center;
+  color: gray;
+}
+
+#contact {
+  text-align: center;
+  color: red;
+}
+
+
+#project {
+  text-align: center;
+  color: red;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+  color: red;
+}
